@@ -30,8 +30,8 @@ def abhishek():
 
 <details>
   <summary>Stats</summary>
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abhishek20182&show_icons=true&theme=algolia&count_private=true" alt="abhishek20182" />
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek20182&theme=algolia" alt="abhishek20182" />
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=beery4010&show_icons=true&theme=algolia&count_private=true" alt="beery4010" />
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beery4010&theme=algolia" alt="beery4010" />
   </details>
 
 
