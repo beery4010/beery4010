@@ -3,8 +3,8 @@
 <img align='right' src="https://github.com/Abhishek20182/Abhishek20182/blob/main/coding.gif" width="295">
 
 <div>
-<img src="https://img.shields.io/badge/EXLer-FF5200?logo=EXL">
-<img src="https://img.shields.io/badge/Abhishek%20Tiwari-000000">
+<img src="https://img.shields.io/badge/EXLer-fc5311">
+<a href="https://www.linkedin.com/in/beery4010/"><img src="https://img.shields.io/badge/Abhishek%20Tiwari-000000"></a>
 <a href="https://community.appian.com/members/abhishekt1213"><img src="https://img.shields.io/badge/Appian%20Developer-2322F0?logo=appian"></a>
 <a href="https://medium.com/@beery4010"><img src="https://img.shields.io/badge/AI%20Enthusiast-000000?logo=medium"></a>
 <a href="https://www.kaggle.com/abhishek20182"><img src="https://img.shields.io/badge/Kaggle%20Competitor-20BEFF"></a>
