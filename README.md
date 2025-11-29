@@ -9,13 +9,16 @@
 <a href="https://medium.com/@beery4010"><img src="https://img.shields.io/badge/AI%20Enthusiast-000000?logo=medium"></a>
 <a href="https://community.appian.com/members/abhishekt1213"><img src="https://img.shields.io/badge/Appian%20Developer-2322F0?logo=appian"></a>
 </div>
-</br>
+<br>
 
 - 🎓 I've  completed my **Bachelors in Mining Engineering** from the **National Institute of Technology, Raipur**.
 - 👨‍💼 I'm currently working at **EXL Services** as a **Appian Developer**.
-- 🌱 I'm currently learning from [Coursera](https://www.coursera.org/) ,[Youtube](https://www.youtube.com/), [Wikipedia](https://en.wikipedia.org/), [Kaggle](https://www.kaggle.com/) and [Analytic Vidhya](https://www.analyticsvidhya.com/).
+- 🌱 I'm currently learning from Coursera ,Youtube, Wikipedia, Kaggle and Analytic Vidhya.
 - ⚡️ Fast learner.
-- 💻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
+- 🚀 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
+
+
+## 💻 Technologies & Tools
 
 ```python
 def abhishek():
@@ -27,4 +30,19 @@ def abhishek():
   dockship_competition = 1
   return ∞
 ```
-<!--START_SECTION:activity-->
+
+
+## 📖  What I am currently learning / improving on
+
+<div>
+<img src="https://img.shields.io/badge/Python-000000?logo=python" alt="Python logo" title="Python"> 
+<img src="https://img.shields.io/badge/MySQL-000000?logo=mysql&logoColor=white" alt="MySQL logo" title="MySQL">
+<img src="https://img.shields.io/badge/Numpy-000000?logo=numpy" alt="NumPy logo" title="NumPy"> 
+<img src="https://img.shields.io/badge/Pandas-000000?logo=pandas" alt="Pandas logo" title="Pandas"> 
+</div>
+
+<br>
+<br>
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=beery4010.beery4010"> 
+</div>
