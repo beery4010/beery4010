@@ -5,7 +5,9 @@
 <div>
 <img src="https://img.shields.io/badge/EXLer-FF5200?logo=EXL">
 <img src="https://img.shields.io/badge/Abhishek%20Tiwari-000000">
-<a href=""><img src="https://img.shields.io/badge/Appian%20Developer-2322F0?logo=appian"> </a>
+<a href="https://community.appian.com/members/abhishekt1213"><img src="https://img.shields.io/badge/Appian%20Developer-2322F0?logo=appian"></a>
+<a href="https://medium.com/@beery4010"><img src="https://img.shields.io/badge/AI%20Enthusiast-000000?logo=medium"></a>
+<a href="https://www.kaggle.com/abhishek20182"><img src="https://img.shields.io/badge/Kaggle%20Competitor-20BEFF"></a>
 </div>
 </br>
 
@@ -25,20 +27,3 @@ def abhishek():
   dockship_competition = 1
   return ∞
 ```
-
-
-## 📈 My GitHub Stats
-
-
-<h3> Where to find me: </h3>
-<div>
-<a href="https://www.linkedin.com/in/beery4010/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://www.kaggle.com/abhishek20182">
-<img  src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
-</a>
-<a href="https://medium.com/@beery4010">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-</a>
-</div>
