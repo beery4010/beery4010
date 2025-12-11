@@ -39,6 +39,7 @@ def abhishek():
 <img src="https://img.shields.io/badge/MySQL-000000?logo=mysql&logoColor=white" alt="MySQL logo" title="MySQL">
 <img src="https://img.shields.io/badge/Numpy-000000?logo=numpy" alt="NumPy logo" title="NumPy"> 
 <img src="https://img.shields.io/badge/Pandas-000000?logo=pandas" alt="Pandas logo" title="Pandas"> 
+<img src="https://img.shields.io/badge/PostgreSQL-000000?logo=postgresql&logoColor=white" alt="PostgreSQL logo" title="PostgreSQL">
 </div>
 
 <br>
